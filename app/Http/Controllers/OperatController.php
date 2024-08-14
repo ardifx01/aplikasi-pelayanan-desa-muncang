@@ -28,7 +28,7 @@ class OperatController extends Controller
     {
         $title = 'Kesekretariatan';
         $data = daftarsurat::orderBy('created_at', 'desc')->paginate(10);
-        return view('operator.kesekretariatan', compact('title', 'data'));
+        return view('operator.Kesekretariatan', compact('title', 'data'));
     }
 
     public function showPenduduk(Request $request)
