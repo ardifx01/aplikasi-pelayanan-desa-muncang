@@ -1,0 +1,29 @@
+[33mcommit 518ba860a33780e5b7076bc8a96acb00a12e18e9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Maliskandar <sao19082002@gmail.com>
+Date:   Tue Aug 6 22:31:32 2024 +0700
+
+    add file
+
+[33mcommit ab8beb41bf7a5c8325c3de41078eafc909aceca9[m
+Author: Maliskandar <sao19082002@gmail.com>
+Date:   Tue Aug 6 22:25:20 2024 +0700
+
+    add file
+
+[33mcommit e673ff8c50880b40f8726588f5a86a4ace1c0e38[m
+Author: Maliskandar <sao19082002@gmail.com>
+Date:   Tue Aug 6 21:46:57 2024 +0700
+
+    second commit
+
+[33mcommit d2fb0a6e21dc27d725d6e59afc47c53100e2d5eb[m
+Author: Maliskandar <sao19082002@gmail.com>
+Date:   Tue Aug 6 21:06:09 2024 +0700
+
+    first commit
+
+[33mcommit 77d1f9eb9bd746057a4df1499679a3070e2078b5[m
+Author: Maliskandar <sao19082002@gmail.com>
+Date:   Sun Aug 4 07:11:20 2024 +0700
+
+    Set up a fresh Laravel app

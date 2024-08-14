@@ -7,6 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.84.0">
+    <link href="https://cdn.jsdelivr.net/npm/flowbite@2.5.1/dist/flowbite.min.css" rel="stylesheet" />
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     <title>Login</title>
     <style>
@@ -25,7 +26,7 @@
         }
     </style>
     <script>
-        // On page load or when changing themes, best to add inline in `head` to avoid FOUC
+        // On page load or when changing themes, best to add inline in head to avoid FOUC
         if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localStorage) && window.matchMedia(
                 '(prefers-color-scheme: dark)').matches)) {
             document.documentElement.classList.add('dark');
@@ -108,7 +109,8 @@
                             <div class="space-y-5">
                                 <!-- Logo and Title Section -->
                                 <div class="text-center">
-                                    <img src="/img/Kabupaten_Pemalang.png" alt="Logo" class="mx-auto w-30 h-20" />
+                                    <img src="/public/img/Kabupaten_Pemalang.png" alt="Logo"
+                                        class="mx-auto w-30 h-20" />
                                     <!-- Add your logo path -->
                                     <h1 class="mt-4 text-2xl font-bold text-gray-500">Aplikasi Pelayanan Desa Muncang
                                     </h1>
